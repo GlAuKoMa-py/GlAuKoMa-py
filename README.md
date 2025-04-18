@@ -7,7 +7,7 @@ Back-end Python & Java Developer
 *   🌍  I'm based in Moscow
 *   ✉️  You can contact me at [https://discord.gg/FXZTDavQ8f](mailto:https://discord.gg/FXZTDavQ8f)
 *   🚀  I'm currently working on [TechnoLog Launcher](http://discord.gg/FXZTDavQ8f)
-*   🧠  I'm learning Python & MySQL
+*   🧠  I'm learning Java & Swing
 *   🤝  I'm open to collaborating on TechnoLog
 *   ⚡  I'm a billionaire, a philanthropist, and a senior at Python. (Deep in my soul)
 ### Skills 
