@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Evan
 ============================================================================================================================
 
-Back-end Python & Java Developer
+Front-end Python & Java Junior Developer
 --------------------------------
 
 *   🌍  I'm based in Tokyo
 *   ✉️  You can contact me at [https://discord.gg/FXZTDavQ8f]()
-*   🚀  I'm currently working on [Minecraft Launcher]()
+*   🚀  I'm currently working on [Faradey Multihack]()
 *   🧠  I'm learning Java, Python, Web & Swing, Qt
-*   🤝  I'm open to collaborating on Minecraft Launcher
+*   🤝  I'm open to collaborating on Faradey Multihack
 *   ⚡  I'm a billionaire, a philanthropist, and a senior at Java. (Deep in my soul)
 ### Skills 
 <p align="left">
