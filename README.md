@@ -9,7 +9,6 @@
 
 - ⚡ Интересный факт **Когда-то я изучал Python...**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
