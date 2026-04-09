@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaukoma&label=Profile%20views&color=0e75b6&style=flat" alt="glaukoma" /> </p>
 
-- 🔭 I’m currently working on **Soon...**
+- 🔭 I’m currently working on **Self...**
 
-- 🌱 I’m currently learning **Fabric API (1.21+)**
+- 🌱 I’m currently learning **C# .NET 9.0**
 
 - 👯 I’m looking to collaborate on **Soon...**
 
