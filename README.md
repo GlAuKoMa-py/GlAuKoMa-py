@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Evan.</h1>
-<h3 align="center">Dedicated, proactive Java and Web developer.</h3>
+<h3 align="center">Dedicated, proactive C#/Java and Web developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glaukoma&label=Profile%20views&color=0e75b6&style=flat" alt="glaukoma" /> </p>
 
